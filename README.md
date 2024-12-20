@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##About :
+## About :
 As a graduate student at Northeastern University, I’m passionate about leveraging technology to solve complex problems. My technical expertise spans cloud computing (AWS), web development (React, NodeJS, Flask), data analysis and data structures. I aim to apply my knowledge in software development roles.
 
 ## 🌐 Socials:
