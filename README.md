@@ -88,7 +88,7 @@ I care about the whole path from **data to model to deployment**, and about maki
 <a href="mailto:jaya.muru02@gmail.com">
   <img src="https://img.shields.io/badge/Email-YOUR--EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://github.com/m-jayashreee">
+<a href="portfolio-jayashree-murugesan.vercel.app ">
   <img src="https://img.shields.io/badge/Portfolio-YOUR--USERNAME.github.io-D6AF60?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
 </a>
 
