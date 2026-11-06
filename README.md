@@ -82,19 +82,19 @@ I care about the whole path from **data to model to deployment**, and about maki
 ## 📫 Contact / Connect
 
 <!-- Replace YOUR-LINKEDIN, YOUR-EMAIL and YOUR-USERNAME below with your real details. -->
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/in/jayashree-murugesan/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:YOUR-EMAIL@example.com">
+<a href="mailto:jaya.muru02@gmail.com">
   <img src="https://img.shields.io/badge/Email-YOUR--EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://YOUR-USERNAME.github.io">
+<a href="https://github.com/m-jayashreee">
   <img src="https://img.shields.io/badge/Portfolio-YOUR--USERNAME.github.io-D6AF60?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
 </a>
 
 ---
 
-## 🍀 A Little Extra
+## 🌍 A Bit More About My World
 
 <!-- Make this section yours: a few things you enjoy outside work. For example:
 - 🎨 I love ...
@@ -103,7 +103,7 @@ I care about the whole path from **data to model to deployment**, and about maki
 Delete these comment markers once you've filled it in. -->
 
 - 🤝 I enjoy **teaching**: mentoring 20+ grad students as a TA showed me that explaining something well is the best test of understanding it.
-- 🥽 I'm excited by AI that feels **human**: agents you can talk to, in spaces you can step into.
-- I value systems that are **fast, measurable and kind to the people using them**.
+- 🎨 I love art! I enjoy experimenting with different mediums of art and my current obsession is gouache paints and making art from nature.
+- 📚 Currently reading "The Book Thief" and "Love Theoretically" (i switch back and forth xD)
 
 ---
